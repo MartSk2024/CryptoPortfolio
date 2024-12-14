@@ -86,4 +86,4 @@ public class CryptoService {
         cryptos.clear();
     }
 
-}//konec tridy
+}//

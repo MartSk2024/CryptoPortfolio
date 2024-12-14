@@ -62,4 +62,4 @@ public class Crypto {
         this.quantity = quantity;
     }
 
-}//konec tridy
+}//
