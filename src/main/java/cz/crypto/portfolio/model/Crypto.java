@@ -8,7 +8,7 @@ public class Crypto {
     private double quantity;
 
     //V praxi (slovy lektora Marka: "Neznám vývojáře Javy, který by nepoužíval
-    //Lombok") by se zde měla naimportováním použít knihovna Lombok, která sama
+    //Lombok.") by se zde měla naimportováním použít knihovna Lombok, která sama
     //vytvoří potřebné konstruktory, gettery a settery. Kód se tím podstatně zkrátí.
 
     public Crypto(int id, String name, String symbol, double price, double quantity) {
@@ -62,4 +62,4 @@ public class Crypto {
         this.quantity = quantity;
     }
 
-}
+}//konec třídy
