@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("api/cryptos")
+@RequestMapping("cryptos")
 public class CryptoController {
 
     @Autowired
